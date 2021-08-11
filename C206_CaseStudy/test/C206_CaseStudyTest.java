@@ -7,7 +7,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import ese.appointment;
-
+//
 public class C206_CaseStudyTest {
 	private appointment app1;
 	private appointment app2;
@@ -27,7 +27,7 @@ public class C206_CaseStudyTest {
 		appList.add(app1);
 		assertSame(app1, appList.get(0));
 		assertEquals(1, appList.size());
-		
+		//
 	}
 	
 }
